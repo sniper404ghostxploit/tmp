@@ -1,0 +1,1 @@
+npm i request && npm i fs && npm i minimist && npm i colors && npm i tls && npm i dns && npm i socks && npm i stream && npm i http2 && npm i net && npm i http && npm install playwright && npx playwright install-deps
